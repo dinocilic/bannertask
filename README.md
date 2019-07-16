@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-# This is an simple banner app 
-=======
-# bannerapp
+                                              # This is an simple banner app 
+                                              ===============================
+                                              # bannerapp
+                                              ================================
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and runs the app for development
 ```
 npm run serve
 ```
