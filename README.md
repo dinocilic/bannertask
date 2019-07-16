@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# bannertask
+# This is an simple banner app 
 =======
 # bannerapp
 
